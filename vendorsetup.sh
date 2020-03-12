@@ -1,0 +1,2 @@
+add_lunch_combo lineage_V420A-userdebug
+add_lunch_combo lineage_V420A-eng
